@@ -1,0 +1,8 @@
+[{
+  "modid": "EDC",
+  "name": "Escamas Dupe Check",
+  "description": "Identifica elementos posiblemente engañados de Crystal Hollows Dupe en Hypixel Skyblock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["escama"]
+}]
